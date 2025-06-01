@@ -16,22 +16,19 @@ A full-stack web application for managing, organizing, and showcasing multimedia
 
 ## 🛠 Technologies Used
 
-- **Backend:** Flask (Python), Jinja2
-- **Frontend:** HTML5, CSS3, JavaScript (vanilla)
+- **Backend:** Flask (Python)   
 - **Database:** MySQL
-- **Other Tools:** SQLAlchemy, Flask-Login, WTForms (if used)
 
-## 📸 Screenshots
 
-> *Include screenshots or demo GIFs here (if applicable).*
+
 
 ## 🧩 Setup Instructions
 
 ### Prerequisites
 
-- Python 3.x
-- MySQL Server
-- Virtualenv (optional but recommended)
+- Python 
+- Deep learning Algorithms
+  
 
 ### Installation
 
