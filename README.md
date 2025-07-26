@@ -3,6 +3,7 @@ It is a Deep Learning Model
 
 
 A full-stack web application for managing, organizing, and showcasing multimedia content such as videos and related metadata. Built using **Flask**, **HTML**, **CSS**, **JavaScript**, and **MySQL**, this platform enables content creators to streamline their workflow, track uploads, and offer a polished user experience.
+We can also call this as an anamoly detection also 
 
 ## 🚀 Features
 
